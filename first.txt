@@ -1,2 +1,4 @@
 はじめてのGitとGithub
 Gitの基本的なワークフロー
+- git add
+- git commit
