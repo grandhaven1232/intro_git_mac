@@ -3,3 +3,4 @@ Gitの基本的なワークフロー
 - git add
 - git commit
 - get rm
+- git status
